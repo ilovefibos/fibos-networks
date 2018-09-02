@@ -158,5 +158,23 @@
         "description": "HTTPS API"
       }
     ]
+  },
+  {
+    "name": "FIBOS SideChain",
+    "description": "FIBOS SideChain",
+    "owner": "FIBOS",
+    "chainId": "6aa7bd33b6b45192465afa3553dedb531acaaff8928cf64b70bd4c5e49b7ec6a",
+    "type": "mainnet",
+    "prefix":"FO",
+    "network": "fibos",
+    "endpoints": [
+      {
+        "name": "FIBOS SE",
+        "protocol": "http",
+        "port": 8870,
+        "url": "se-rpc.fibos.io",
+        "description": "HTTP API"
+      }
+    ]
   }
 ]
