@@ -9,32 +9,32 @@
     "network": "fibos",
     "endpoints": [
       {
-        "name": "FIBOS Singapore",
-        "protocol": "http",
-        "port": 8870,
-        "url": "se-rpc.fibos.io",
-        "description": "HTTP API"
+        "name": "Fibos Rocks",
+        "protocol": "https",
+        "port": 443,
+        "url": "api.fibos.rocks",
+        "description": "Public node provided by Fibos Rocks"
       },
       {
-        "name": "FIBOS Seoul",
-        "protocol": "http",
-        "port": 8870,
-        "url": "sl-rpc.fibos.io",
-        "description": "HTTP API"
+        "name": "FIBOS123",
+        "protocol": "https",
+        "port": 443,
+        "url": "rpc-mainnet.fibos123.com",
+        "description": "Public node provided by FIBOS123"
       },
       {
-        "name": "FIBOS Tokyo",
-        "protocol": "http",
-        "port": 8870,
-        "url": "to-rpc.fibos.io",
-        "description": "HTTP API"
+        "name": "QubitFund",
+        "protocol": "https",
+        "port": 443,
+        "url": "api.eoschina.me",
+        "description": "Public node provided by QubitFund"
       },
       {
-        "name": "FIBOS Canada",
-        "protocol": "http",
-        "port": 8870,
-        "url": "ca-rpc.fibos.io",
-        "description": "HTTP API"
+        "name": "FibToTheMoon",
+        "protocol": "https",
+        "port": 443,
+        "url": "api.fibos.me",
+        "description": "Public node provided by FibToTheMoon"
       }
     ]
   }
