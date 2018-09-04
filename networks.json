@@ -9,10 +9,31 @@
     "network": "fibos",
     "endpoints": [
       {
-        "name": "FIBOS SE",
+        "name": "FIBOS Singapore",
         "protocol": "http",
         "port": 8870,
         "url": "se-rpc.fibos.io",
+        "description": "HTTP API"
+      },
+      {
+        "name": "FIBOS Seoul",
+        "protocol": "http",
+        "port": 8870,
+        "url": "sl-rpc.fibos.io",
+        "description": "HTTP API"
+      },
+      {
+        "name": "FIBOS Tokyo",
+        "protocol": "http",
+        "port": 8870,
+        "url": "to-rpc.fibos.io",
+        "description": "HTTP API"
+      },
+      {
+        "name": "FIBOS Canada",
+        "protocol": "http",
+        "port": 8870,
+        "url": "ca-rpc.fibos.io",
         "description": "HTTP API"
       }
     ]
