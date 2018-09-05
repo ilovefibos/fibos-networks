@@ -1,2 +1,2 @@
-# eos-networks
-List of known EOS networks and endpoints
+# fibos-networks
+List of known FIBOS networks and endpoints
