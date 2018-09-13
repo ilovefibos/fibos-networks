@@ -23,11 +23,11 @@
         "description": "Public node provided by FIBOS123"
       },
       {
-        "name": "QubitFund",
+        "name": "SlowMist Zone",
         "protocol": "https",
         "port": 443,
-        "url": "api.eoschina.me",
-        "description": "Public node provided by QubitFund"
+        "url": "fibos-node.slowmist.io",
+        "description": "Public node provided by SlowMist Zone"
       },
       {
         "name": "FibToTheMoon",
