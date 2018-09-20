@@ -39,20 +39,20 @@
     ]
   },
   {
-      "name": 'FIBOS Testnet',
-      "description": 'The FIBOS Testnet',
-      "owner": 'The FIBOS community',
-      "chainId": '68cee14f598d88d340b50940b6ddfba28c444b46cd5f33201ace82c78896793a',
-      "type": 'testnet',
-      "prefix": 'FO',
-      "network": 'fibos',
+      "name": "FIBOS Testnet",
+      "description": "The FIBOS Testnet",
+      "owner": "The FIBOS community",
+      "chainId": "68cee14f598d88d340b50940b6ddfba28c444b46cd5f33201ace82c78896793a",
+      "type": "testnet",
+      "prefix": "FO",
+      "network": "fibos',
       "endpoints": [
         {
-          "name": 'xuanwu',
-          "protocol": 'http',
+          "name": "xuanwu",
+          "protocol": "http",
           "port": 8870,
-          "url": '103.80.170.237',
-          "description": 'Public node provided by xuanwu'
+          "url": "103.80.170.237",
+          "description": "Public node provided by xuanwu"
         }
       ]
     }
