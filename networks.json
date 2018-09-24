@@ -48,11 +48,11 @@
       "network": "fibos",
       "endpoints": [
         {
-          "name": "xuanwu",
-          "protocol": "http",
-          "port": 8870,
-          "url": "103.80.170.237",
-          "description": "Public node provided by xuanwu"
+          "name": "ilovefibosbp",
+          "protocol": "https",
+          "port": 443,
+          "url": "rpc-testnet.fibos123.com",
+          "description": "Public node provided by ilovefibosbp"
         }
       ]
     }
