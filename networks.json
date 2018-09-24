@@ -51,7 +51,7 @@
           "name": "ilovefibosbp",
           "protocol": "https",
           "port": 443,
-          "url": "rpc-testnet.ilovefibosbp.com",
+          "url": "rpc-testnet.ilovefibos.com",
           "description": "Public node provided by ilovefibosbp"
         }
       ]
