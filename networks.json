@@ -48,11 +48,11 @@
       "network": "fibos",
       "endpoints": [
         {
-          "name": "ilovefibosbp",
+          "name": "official",
           "protocol": "https",
           "port": 443,
-          "url": "rpc-testnet.ilovefibos.com",
-          "description": "Public node provided by ilovefibosbp"
+          "url": "testnet.fibos.fo",
+          "description": "Official fibos testnet endpoint"
         }
       ]
     }
