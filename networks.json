@@ -23,18 +23,18 @@
         "description": "Public node provided by FIBOS123"
       },
       {
-        "name": "SlowMist Zone",
-        "protocol": "https",
-        "port": 443,
-        "url": "fibos-node.slowmist.io",
-        "description": "Public node provided by SlowMist Zone"
-      },
-      {
-        "name": "FibToTheMoon",
+        "name": "fibtothemoon",
         "protocol": "https",
         "port": 443,
         "url": "api.fibos.me",
-        "description": "Public node provided by FibToTheMoon"
+        "description": "Public node provided by fibtothemoon"
+      },
+      {
+        "name": "aprilfibosbp",
+        "protocol": "https",
+        "port": 443,
+        "url": "http://rpc.otclook.com",
+        "description": "Public node provided by aprilfibosbp"
       }
     ]
   },
