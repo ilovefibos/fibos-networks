@@ -28,13 +28,6 @@
         "port": 443,
         "url": "api.fibos.me",
         "description": "Public node provided by fibtothemoon"
-      },
-      {
-        "name": "aprilfibosbp",
-        "protocol": "https",
-        "port": 443,
-        "url": "rpc.otclook.com",
-        "description": "Public node provided by aprilfibosbp"
       }
     ]
   },
