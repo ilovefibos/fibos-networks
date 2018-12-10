@@ -21,13 +21,6 @@
         "port": 443,
         "url": "rpc-mainnet.fibos123.com",
         "description": "Public node provided by FIBOS123"
-      },
-      {
-        "name": "fibtothemoon",
-        "protocol": "https",
-        "port": 443,
-        "url": "api.fibos.me",
-        "description": "Public node provided by fibtothemoon"
       }
     ]
   },
