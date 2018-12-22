@@ -14,7 +14,14 @@
         "port": 443,
         "url": "api.fibos.rocks",
         "description": "Public node provided by Fibos Rocks"
-      }
+      },	
+       {	
+         "name": "FIBOS123",	
+         "protocol": "https",	
+         "port": 443,	
+         "url": "rpc-mainnet.fibos123.com",	
+         "description": "Public node provided by FIBOS123"	
+       }
     ]
   },
   {
