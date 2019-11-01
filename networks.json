@@ -35,9 +35,9 @@
       "endpoints": [
         {
           "name": "official",
-          "protocol": "https",
-          "port": 443,
-          "url": "testnet.fibos.fo",
+          "protocol": "http",
+          "port": 80,
+          "url": "http://api.testnet.fo",
           "description": "Official fibos testnet endpoint"
         }
       ]
